@@ -14,9 +14,9 @@
 ## 三.项目结构：
 ```
 -README.MD       
--baseline.py         # 主代码
--配置说明.txt        # 环境依赖及配置说明
--submission.csv            # 要提交的结果文件
+-baseline.py          # 主基线代码
+-配置说明.txt         # 环境依赖及配置说明
+-submission.csv       # 要提交的结果文件
 ```
 
 ## 四.运行说明：
