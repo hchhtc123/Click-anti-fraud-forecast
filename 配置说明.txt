@@ -1,0 +1,6 @@
+首先需要下载catboost、pandas、numpy和sklearn库
+
+数据集下载链接：https://aistudio.baidu.com/aistudio/datasetdetail/105017
+下载数据集后解压至与baseline.py同级目录下即可。
+
+运行:完成以上配置操作后直接运行baseline.py即可，提交时提交生成的预测结果文件submission.csv。
